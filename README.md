@@ -3,17 +3,17 @@ An Image Select control built with and for React JS
 
 
 # get started
-## install
+## 1. install
 ```javascript
 npm install react-image-select
 ```
 
-## import
+## 2. import
 ```javascript
 import ImageSelect from 'react-image-select';
 ```
 
-## use
+## 3. use
 ```javascript
 <ImageSelect
   images={['/images/apple.png', '/images/banana.png', '/images/pear.png']}
