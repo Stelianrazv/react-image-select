@@ -1,0 +1,26 @@
+{
+  "name": "react-image-select",
+  "version": "1.0.0",
+  "description": "An Image Select control built with and for React JS",
+  "main": "src/ImageSelect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlyBerthet/react-image-select.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "image-select",
+    "react-image-select",
+    "select"
+  ],
+  "author": "Charly Berthet <charlyberthet94@gmail.com> (https://github.com/charlyBerthet)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlyBerthet/react-image-select/issues"
+  },
+  "homepage": "https://github.com/charlyBerthet/react-image-select#readme"
+}
